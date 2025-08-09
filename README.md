@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @KaashfAli
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me kashafali923@gmail.com
+👋  Welcome to my profile! I'm Kashaf Ali a versatile professional:
+- 🌐 Front End Web Developer
+- 📚 Currently learning JAVA & React
+- 💡 Problem Solver
 - 🌍 My repositories are hosted and accessible for viewing.
+
+  Turning ideas into clean, efficient, and scalable solutions
+  💌 *Let's Connect!* 
 
 <!---
 KaashfAli/KaashfAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
