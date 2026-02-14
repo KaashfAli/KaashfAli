@@ -1,6 +1,8 @@
-👋  Welcome to my profile! I'm Kashaf Ali a versatile professional:
-- 🌐 Front End Web Developer
-- 📚 Currently learning JAVA & React
+![NextJsLogoGIF](https://github.com/user-attachments/assets/18089f60-df60-4a46-bf3e-db7af4a6ef76)👋  Welcome to my profile! I'm Kashaf Ali a versatile professional:
+- ▲  Next.js
+- 👩‍🚀 React
+- 🌐 Redux
+- ⚡TanStack Query 
 - 💡 Problem Solver
 - 🌍 My repositories are hosted and accessible for viewing.
 
