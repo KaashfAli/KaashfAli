@@ -1,4 +1,5 @@
-![NextJsLogoGIF](https://github.com/user-attachments/assets/18089f60-df60-4a46-bf3e-db7af4a6ef76)👋  Welcome to my profile! I'm Kashaf Ali a versatile professional:
+![NextJsLogoGIF](https://github.com/user-attachments/assets/18089f60-df60-4a46-bf3e-db7af4a6ef76)
+👋  Welcome to my profile! I'm Kashaf Ali a versatile professional:
 - ▲  Next.js
 - 👩‍🚀 React
 - 🌐 Redux
